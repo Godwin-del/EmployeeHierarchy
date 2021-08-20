@@ -1,0 +1,11 @@
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net5.0\EmployeeLibrary.deps.json
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net5.0\EmployeeLibrary.dll
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net5.0\ref\EmployeeLibrary.dll
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\bin\Debug\net5.0\EmployeeLibrary.pdb
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.dll
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net5.0\ref\EmployeeLibrary.dll
+C:\Users\gkipkirui\source\repos\EmployeeLibrary\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.pdb
